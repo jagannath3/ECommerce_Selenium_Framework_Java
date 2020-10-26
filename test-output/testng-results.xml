@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21544" started-at="2020-10-26T19:30:12 IST" finished-at="2020-10-26T19:30:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21544" started-at="2020-10-26T19:30:12 IST" finished-at="2020-10-26T19:30:34 IST">
+      <class name="com.ecommerce.testCases.userRegistration">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.ecommerce.testCases.userRegistration@74650e52]" name="init" is-config="true" duration-ms="16743" started-at="2020-10-26T19:30:12 IST" finished-at="2020-10-26T19:30:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="userRegister(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, long, java.lang.String)[pri:0, instance:com.ecommerce.testCases.userRegistration@74650e52]" name="userRegister" duration-ms="4649" started-at="2020-10-26T19:30:29 IST" data-provider="dataForAccountCreation" finished-at="2020-10-26T19:30:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lakece9035@prekab.net]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Qwerty@3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1990]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[New York City]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[New York City]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Home Address]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegister -->
+      </class> <!-- com.ecommerce.testCases.userRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
